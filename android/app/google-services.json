@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "616624459091",
+    "project_id": "apex-information-web",
+    "storage_bucket": "apex-information-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616624459091:android:91f386de4c95840a9165a6",
+        "android_client_info": {
+          "package_name": "com.example.apex_info_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616624459091-g4etgjemogllq3mspe1duhsbbf3ekup1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbpCpRW1AtK6asbzNU9po7hFjsD87-50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616624459091-g4etgjemogllq3mspe1duhsbbf3ekup1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616624459091-j5528ais2i1sr76cqn9nqbkcdgkiiahn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.apexInfoWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
